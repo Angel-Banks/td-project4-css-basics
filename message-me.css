@@ -64,16 +64,6 @@ textarea {
   margin-bottom: 1rem;
 }
 
-#checkbox{
-  width: 5%;
-  margin: 0;
-  position: absolute;
-  height: 1rem;
- 
-/* moves the image randonly from its original position */
-  left: 460px;
-/* top: 170px; */
-}
 
 
 button {
@@ -142,3 +132,15 @@ a:hover {
     height: 30%;
  
   }
+  .bottom-container{
+   
+   width: 100%;
+ }
+
+ button {
+  
+  width: 100%;}
+
+ }
+
+

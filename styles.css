@@ -181,3 +181,16 @@ bottom: 360px;
   opacity: 0.5;
   color: #000000;
 }
+
+@media screen and (max-width: 1024px) {
+  .copyright {
+    
+    font-size: 0.75rem;
+ 
+  }
+  
+  .skill-row {
+    width: 40%;
+  
+  }
+}
