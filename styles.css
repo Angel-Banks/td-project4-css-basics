@@ -7,6 +7,15 @@
     color: #40514E;
 }
 
+.home-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem, 2rem;
+  background-color: #66BFBF;
+  max-height: 5rem;
+}
+
 
 
 a {
@@ -188,9 +197,11 @@ bottom: 360px;
     font-size: 0.75rem;
  
   }
-  
-  .skill-row {
-    width: 40%;
-  
+  header{
+    width: 100%;
   }
+  
+
+
+ 
 }
